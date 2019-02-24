@@ -1,4 +1,9 @@
 # Sentiment-classification-of-amazon-fine-food-reviews
-Big data &amp; Machine learning project
-Sentiment classification on Amazon fine food reviews dataset using text pre-processing techniques and machine learning using Spark framework,  in Scala language.
+This project is done using Spark framework,  in Scala language.
 
+
+
+
+
+
+The sentiment classification of this dataset is done using text mining techniques such as tokenization, stop words removal, vectorization, indexing, term frequency, idf and machine learning techniques such as logistic regression, random forest.
